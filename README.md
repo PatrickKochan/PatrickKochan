@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Kochan
-I'm a Software Engineer specialized in **Kotlin backend development**, with experience in **cloud development and scalable APIs**. I have a bachelor's degree in Computer Engineering from the Federal University of Santa Catarina (UFSC).  
-Currently, I'm expanding my knowledge in software architecture and system monitoring tools.
+I'm a Software Engineer specialized in **Kotlin backend development**, with experience in **cloud-based solutions and scalable APIs**. I have a bachelor's degree in Computer Engineering from the Federal University of Santa Catarina (UFSC).  
+Currently, I'm expanding my knowledge in **software architecture** and **system monitoring tools**.
 
 
 ## 🚀 Tech Stack
@@ -15,8 +15,8 @@ Currently, I'm expanding my knowledge in software architecture and system monito
 - **Frameworks**: LangChain, Spring Boot  
 - **Databases**: MongoDB  
 - **Tools**: Kubernetes, Kafka, Prometheus, Kibana  
-- **Topics**: AI in general, System Architecture, Computer Vision, Design Patterns, Big O Notation, Data Structures  
+- **Topics**: Artificial Intelligence, System Architecture, Computer Vision, Design Patterns, Algorithm Analysis (Big O), Data Structures  
 
 ## 📬 Get in Touch  
-- <a href="mailto:patrick.dkochan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@15.12.0/icons/gmail.svg" alt="gmail-patrick-kochan" height="30" width="40"/>patrick.dkochan@gmail</a>  
-- <a href="https://www.linkedin.com/in/patrick-kochan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg" alt="linkedin-patrick-kochan" height="30" width="40"/>https://www.linkedin.com/in/patrick-kochan/</a>  
+- <a href="mailto:patrick.dkochan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@15.12.0/icons/gmail.svg" alt="gmail-patrick-kochan" height="30" width="40"/>patrick.dkochan@gmail.com</a>  
+- <a href="https://www.linkedin.com/in/patrick-kochan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg" alt="linkedin-patrick-kochan" height="30" width="40"/>linkedin.com/in/patrick-kochan/</a>  
