@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick Kochan
+I'm a Software Engineer specialized in **Kotlin backend development**, with experience in **cloud development and scalable APIs**. I have a bachelor's degree in Computer Engineering from the Federal University of Santa Catarina (UFSC).  
+Currently, I'm expanding my knowledge in software architecture and system monitoring tools.
 
-<!--
-**PatrickKochan/PatrickKochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Programming Languages**: Kotlin, Java  
+- **Frameworks**: Quarkus  
+- **Databases**: DynamoDB, MySQL  
+- **Cloud**: AWS Cloudformation, Lambda, Step Functions, SQS, S3, Athena and others  
+- **Tools**: Docker, Grafana, GraphQL, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I want to learn more
+- **Programming Languages**: Python, Clojure, Rust  
+- **Frameworks**: LangChain, Spring Boot  
+- **Databases**: MongoDB  
+- **Tools**: Kubernetes, Kafka, Prometheus, Kibana  
+- **Topics**: AI in general, System Architecture, Computer Vision, Design Patterns, Big O Notation, Data Structures  
+
+## 📬 Get in Touch  
+- <a href="mailto:patrick.dkochan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@15.12.0/icons/gmail.svg" alt="gmail-patrick-kochan" height="30" width="40"/>patrick.dkochan@gmail</a>  
+- <a href="https://www.linkedin.com/in/patrick-kochan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg" alt="linkedin-patrick-kochan" height="30" width="40"/>https://www.linkedin.com/in/patrick-kochan/</a>  
